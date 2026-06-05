@@ -53,7 +53,7 @@ const Header = () => {
           </div>
           <div className="leading-tight">
             <h1 className="text-md font-bold tracking-tight text-slate-800 dark:text-white">GitFix</h1>
-            <span className="text-[10px] font-sans text-slate-400 dark:text-slate-500">AI Conflict Merger</span>
+            {/* <span className="text-[10px] font-sans text-slate-400 dark:text-slate-500">AI Conflict Merger</span> */}
           </div>
         </Link>
 
